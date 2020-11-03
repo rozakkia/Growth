@@ -1,0 +1,27 @@
+TBAKUN
+status 
+ - 0 belum regis data : belom akses
+ - 1 sudah regis data : bisa akses semua
+ - 2 banned
+ - 6 admin
+ - 7 petani
+ - 8 pemodal
+
+TBLAHAN
+ - 0 tersedia
+ - 1 tidak tersedia
+
+TBFAVORIT
+kategori
+ - 1 akun
+ - 2 lahan
+ - 3 modal
+
+TBKOLABORASI
+status
+ - 0 sedang berlangsung
+ - 1 berhasil selesai
+ - 2 gagal
+kategori
+ - 1 lahan
+ - 2 modal
